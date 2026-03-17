@@ -93,7 +93,7 @@ Generación de código funcional a partir de una descripción en lenguaje natura
   <details>
   <summary></summary>
   <ul>
-    <li>En una habitación hay 3 hermanas: Anna está leyendo un libro. Alice está jugando una partida de ajedrez. ¿Qué está haciendo la tercera persona (llamada Amanda)?
+    <li>En una habitación hay 3 hermanas: Anna está leyendo un libro. Alice está jugando una partida de ajedrez. ¿Qué está haciendo la tercera persona (llamada Amanda)? [🧾](https://chatgpt.com/share/6895e9cf-98f4-8002-bd8a-39de093981f6)
     <li>En una habitación estamos solo 3 hermanas: Anna está leyendo un libro. Alice está jugando una partida de ajedrez. ¿Qué está haciendo la tercera persona (llamada Amanda) y qué relación tiene conmigo?
     <li>Anita tiene dos hermanos. Cada hermano tiene dos hermanas. ¿Cuántas hermanas tiene Anita?
     <li>Alicia tiene 2 hermanas y también tiene 4 hermanos. ¿Cuántas hermanas tienen los hermanos de Alicia?
@@ -103,14 +103,14 @@ Generación de código funcional a partir de una descripción en lenguaje natura
   <details>
   <summary></summary>
   <ul>
-    <li>¿Cuál es el número entero más pequeño cuyo cuadrado está entre 15 y 30?
+    <li>¿Cuál es el número entero más pequeño cuyo cuadrado está entre 15 y 30? [🧾](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/acertijoMatem%C3%A1tico.md)
   </ul>
   </details>
 - ¿Serán de letras?
   <details>
   <summary></summary>
   <ul>
-  <li>SACO es a ASCO lo que 7683 es a...
+  <li>SACO es a ASCO lo que 7683 es a... [🧾](https://chatgpt.com/share/6895ed07-62a4-8002-a426-d9a321eb7e5f) [🧾](https://claude.ai/share/23b3b47a-c492-43a8-9b43-711350017ee0)
     </ul>
   </details>
 - Cervantes en particular -y la literatura en general- les puede
@@ -120,3 +120,6 @@ Generación de código funcional a partir de una descripción en lenguaje natura
     <li>Escríbeme una frase que no contenga ninguna palabra que aparezca en "El Quijote"
   </ul>
   </details>
+
+> [Más ejemplos](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/diversosTest.md)
+
