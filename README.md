@@ -8,7 +8,9 @@
 
 ## ¿Por qué?
 
-Muchos estudiantes y usuarios de LLMs los usan como oráculos: preguntan y aceptan. No cuestionan las respuestas ni distinguen cuándo el modelo razona de cuándo improvisa. Desconocen que la forma de preguntar puede cambiar radicalmente la respuesta. Este taller busca evidenciar esa confianza ciega y reconstruirla sobre una base técnica.
+||||
+|-|-|-|
+Muchos usuarios de los modelos de lenguaje los utilizan como si de oráculos se tratase: les preguntan (*si es que preguntan!!!*) y aceptan sus respuestas.|No cuestionan las respuestas ni distinguen cuándo el modelo razona de cuándo improvisa.|Desconocen que la forma de preguntar puede cambiar radicalmente la respuesta.
 
 ## ¿Qué?
 
@@ -27,3 +29,12 @@ Los modelos de lenguaje de gran escala (LLMs) son sistemas de inteligencia artif
 O sea, como el autocompletar ([¿o no? 🤔](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/conciencIA.md))
 
 </div>
+
+## ¿Para qué?
+
+||||
+|-|-|-|
+|Entender que un LLM no razona: predice secuencias.|Experimentar en primera persona sus aciertos y fallos, y clasificar sus causas.|Conocer al algunas técnicas de prompting y aplicarlas.
+
+Este taller busca evidenciar esa confianza ciega y reconstruirla sobre una base técnica.
+
