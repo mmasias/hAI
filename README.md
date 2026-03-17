@@ -121,14 +121,32 @@ Generación de código funcional a partir de una descripción en lenguaje natura
     <li>Escríbeme una frase que no contenga ninguna palabra que aparezca en "El Quijote"
   </ul>
   </details>
-- La física no va incluida
+- La física no viene de serie
+  <details>
+  <summary></summary>
+  <ul>
+    <li>Bob está en la sala de estar. Camina hacia la cocina, llevando una taza. Pone una pelota en la taza y lleva la taza al dormitorio. Voltea la taza boca abajo y luego camina hacia el jardín. Pone la taza en el jardín y luego camina hacia el garaje. ¿Dónde está la pelota?
+  </ul>    
+  </details>
 - ¿Y si les enseñamos fotos?
   <details>
   <summary></summary>
-    <img src="https://raw.githubusercontent.com/mmasias/ai-prompts/main/documentos/imagenes/perritos.png">
+    <li><img src="https://raw.githubusercontent.com/mmasias/ai-prompts/main/documentos/imagenes/perritos.png">
+    <li> [Más imágenes](https://github.com/mmasias/ai-prompts/tree/main/documentos/imagenes/testVisuaLLM)
   </details>
-
-
-
+- ¿Se reconocen a sí mismas?
+  <details>
+  <summary></summary>
+  <li> Generar una imagen
+  <li> Preguntarle si es generada por AI o por un humano
+  </details>
 > [Más ejemplos](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/diversosTest.md)
 
+
+
+### ¿Qué hacer?
+
+#### Ingeniería de prompts
+
+- [Cadena de pensamiento](https://github.com/mmasias/ai-prompts/blob/main/documentos/ingenieriaDePrompts/chainOfThought.md)
+- [Árbol de pensamiento](https://github.com/mmasias/ai-prompts/blob/main/documentos/ingenieriaDePrompts/arbolPensamiento.md)
