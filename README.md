@@ -104,6 +104,7 @@ Generación de código funcional a partir de una descripción en lenguaje natura
   <summary></summary>
   <ul>
     <li>¿Cuál es el número entero más pequeño cuyo cuadrado está entre 15 y 30? [🧾](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/acertijoMatem%C3%A1tico.md)
+    <li>¿Es 9.11 > 9.9?
   </ul>
   </details>
 - ¿Serán de letras?
@@ -120,6 +121,14 @@ Generación de código funcional a partir de una descripción en lenguaje natura
     <li>Escríbeme una frase que no contenga ninguna palabra que aparezca en "El Quijote"
   </ul>
   </details>
+- La física no va incluida
+- ¿Y si les enseñamos fotos?
+  <details>
+  <summary></summary>
+    <img src="https://raw.githubusercontent.com/mmasias/ai-prompts/main/documentos/imagenes/perritos.png">
+  </details>
+
+
 
 > [Más ejemplos](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/diversosTest.md)
 
