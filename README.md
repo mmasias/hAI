@@ -99,17 +99,13 @@ Generación de código funcional a partir de una descripción en lenguaje natura
     <li>Alicia tiene 2 hermanas y también tiene 4 hermanos. ¿Cuántas hermanas tienen los hermanos de Alicia?
   </ul>
   </details>  
-- Los números como que no...
+- Los números como que no... Las letras, bueno...
   <details>
   <summary></summary>
   <ul>
     <li>¿Cuál es el número entero más pequeño cuyo cuadrado está entre 15 y 30? [🧾](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/acertijoMatem%C3%A1tico.md)
     <li>¿Es 9.11 > 9.9?
   </ul>
-  </details>
-- ¿Serán de letras?
-  <details>
-  <summary></summary>
   <ul>
   <li>SACO es a ASCO lo que 7683 es a... [🧾](https://chatgpt.com/share/6895ed07-62a4-8002-a426-d9a321eb7e5f) [🧾](https://claude.ai/share/23b3b47a-c492-43a8-9b43-711350017ee0)
     </ul>
@@ -165,6 +161,42 @@ Tomemos uno de los ejemplos que fallaron y [una técnica](https://github.com/mma
 
 - [Cadena de pensamiento](https://github.com/mmasias/ai-prompts/blob/main/documentos/ingenieriaDePrompts/chainOfThought.md)
 - [Árbol de pensamiento](https://github.com/mmasias/ai-prompts/blob/main/documentos/ingenieriaDePrompts/arbolPensamiento.md)
+
+## Y ahora, ¿qué?
+
+Si quieren seguir explorando cosas de AI, el repo de [Pequeñas anécdotas sobre los LLMs](https://github.com/mmasias/ai-prompts) puede resultarles interesante. 
+
+<details>
+<summary><b>Eso sí...</b></summary>
+
+<table>
+<tr>
+<td width=50%>
+<img src="https://raw.githubusercontent.com/mmasias/ai-prompts/main/documentos/imagenes/spaceStation.png">
+</td><td>
+
+<sub>Este repositorio contiene artículos largos, detallados y que requieren lectura activa.<sub>
+
+|<sub>No contiene|<sub>Contiene|
+|-|-|
+|<sub>Listas de "5 prompts mágicos"<br>Resúmenes en viñetas de 3 líneas<br>"Hacks" que prometen resultados en 30 segundos<br>Contenido viral sin sustancia|<sub>Análisis de problemas reales<br>Razonamiento detrás de cada decisión<br>Transcripciones completas del proceso<br>Reflexiones sobre qué funcionó y qué no
+
+<sub>Y es que entender cómo pensar con IA es más valioso que memorizar prompts.
+<br>- Porque los casos de uso complejos requieren contexto.
+<br>- Porque si esto fuera resumible en 280 caracteres, no valdría la pena documentarlo.
+<br>- Si buscas contenido "rápido y fácil" este no es tu repositorio.
+<br>- Internet en general, y Linkedin y X en particular, están lleno de listas que prometen atajos.</sub>
+
+<sub>Si quieres empezar a entender profundamente cómo trabajar con LLMs, bienvenido, ponte cómodo: vas a leer.
+<div align=right><sub><i>La búsqueda del conocimiento no cabe en un tweet.</i></div>
+</td>
+</tr>
+</table>
+
+
+</details>
+
+
 
 ## 2Think
 
