@@ -132,7 +132,7 @@ Generación de código funcional a partir de una descripción en lenguaje natura
   <details>
   <summary></summary>
   <ul>
-    <li>Bob está en la sala de estar. Camina hacia la cocina, llevando una taza. Pone una pelota en la taza y lleva la taza al dormitorio. Voltea la taza boca abajo y luego camina hacia el jardín. Pone la taza en el jardín y luego camina hacia el garaje. ¿Dónde está la pelota?
+    <li>Ana pone una pelota en una caja sin tapa. Lleva la caja del garaje a la cocina. En la cocina, le pone una tapa a la caja. La voltea boca abajo. Quita la caja y con cuidado lleva la tapa al jardín. ¿Dónde está la pelota?
   </ul>
   </details>
 - ¿Y si les enseñamos fotos?
@@ -159,7 +159,13 @@ Generación de código funcional a partir de una descripción en lenguaje natura
 
 ### ¿Qué hacer?
 
+Tomemos uno de los ejemplos que fallaron y [una técnica](https://github.com/mmasias/ai-prompts/blob/main/documentos/ingenieriaDePrompts/arbolPensamiento.md)
+
 #### Ingeniería de prompts
 
 - [Cadena de pensamiento](https://github.com/mmasias/ai-prompts/blob/main/documentos/ingenieriaDePrompts/chainOfThought.md)
 - [Árbol de pensamiento](https://github.com/mmasias/ai-prompts/blob/main/documentos/ingenieriaDePrompts/arbolPensamiento.md)
+
+## 2Think
+
+Si no piensa pero acierta el 90%... ¿realmente importa?
