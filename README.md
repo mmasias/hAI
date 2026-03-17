@@ -1,48 +1,29 @@
-# Taller: Rompe al Robot
+# Hackeando LLMs
 
-> Hora y media para descubrir que los LLMs no piensan — y que eso importa.
+<div align=right>
+
+<sub><i>Los humanos siempre hemos tenido que lidiar con nuevas formas de expresión.<br>A ustedes les ha tocado una que no solo habla, sino que además responde.</i></sub>
+
+</div>
 
 ## ¿Por qué?
 
-Los estudiantes de último año de secundaria usan LLMs a diario, pero los usan como oráculos: preguntan y aceptan. No distinguen cuándo el modelo razona de cuándo improvisa. No saben que la forma de preguntar cambia radicalmente la respuesta. Este taller rompe esa confianza ciega para reconstruirla sobre una base técnica.
+Muchos estudiantes y usuarios de LLMs los usan como oráculos: preguntan y aceptan. No cuestionan las respuestas ni distinguen cuándo el modelo razona de cuándo improvisa. Desconocen que la forma de preguntar puede cambiar radicalmente la respuesta. Este taller busca evidenciar esa confianza ciega y reconstruirla sobre una base técnica.
 
 ## ¿Qué?
 
-Un taller práctico de 90 minutos en tres actos con giro emocional en cada transición:
+<div align=center>
 
-|||
-|-|-|
-|**Acto 1** — *"Esto es increíble"*|Los LLMs impresionan. Se construye confianza.|
-|**Acto 2** — *"Esto es ridículo"*|Los LLMs fallan estrepitosamente en problemas triviales. La confianza se quiebra.|
-|**Acto 3** — *"Esto es ingeniería"*|Los mismos problemas, resueltos con técnicas de prompting. La confianza se reconstruye — sobre conocimiento, no sobre fe.|
-|**Cierre** — *"Esto soy yo"*|Cada alumno crea su propio test. Pasan de usuarios a evaluadores.|
+|[![](https://img.shields.io/badge/-ChatGPT-FFF?style=flat&logo=openai&logoColor=black)](https://chat.openai.com/) [![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats) [![](https://img.shields.io/badge/-Gemini-FFF?style=flat&logo=googlegemini&logoColor=black)](https://gemini.google.com/app) [![](https://img.shields.io/badge/-DeepSeek-FFF?style=flat&logo=deepseek&logoColor=black)](https://chat.deepseek.com/) [![](https://img.shields.io/badge/-Grok-FFF?style=flat&logo=x&logoColor=black)](https://x.com/i/grok) [![](https://img.shields.io/badge/-MetaAI-FFF?style=flat&logo=meta&logoColor=black)](https://www.meta.ai/) [![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)<br>[![](https://img.shields.io/badge/-Perplexity-FFF?style=flat&logo=perplexity&logoColor=black)](https://www.perplexity.ai/) [![](https://img.shields.io/badge/-Mistral-FFF?style=flat)](https://chat.mistral.ai/chat) [![](https://img.shields.io/badge/-Qwen-FFF?style=flat&logo=qwen&logoColor=black)](https://chat.qwen.ai/) [![](https://img.shields.io/badge/-Neuroflash-FFF?style=flat&logo=&logoColor=black)](https://app.neuro-flash.com/aiWriter) [![](https://img.shields.io/badge/-Huggingface-FFF?style=flat&logo=&logoColor=black)](https://huggingface.co/chat)
+|:-:|
+LLMs: Modelos de lenguaje de gran escala / Large language models
 
-## ¿Para qué?
+</div>
 
-Al salir del taller, cada estudiante:
+Los modelos de lenguaje de gran escala (LLMs) son sistemas de inteligencia artificial entrenados con enormes cantidades de texto para entender y generar lenguaje humano de forma natural. Estos modelos aprenden patrones, contexto y relaciones del lenguaje mediante técnicas de aprendizaje automático, permitiendo procesar y producir texto coherente y contextualmente apropiado.
 
-- Sabe que un LLM no razona: predice secuencias.
-- Ha experimentado en primera persona los fallos y ha clasificado sus causas.
-- Conoce al menos tres técnicas de prompting (chain-of-thought, descomposición, few-shot) y las ha aplicado.
-- Ha diseñado su propio reto adversarial.
+<div align=right>
 
-## ¿Cómo?
+O sea, como el autocompletar ([¿o no? 🤔](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/conciencIA.md))
 
-|Recurso|Descripción|
-|-|-|
-|[Guión de sesión](sesion/README.md)|Minuto a minuto, con tiempos e instrucciones para el facilitador|
-|[Acto 1 — Esto es increíble](sesion/acto1-increible.md)|Demostración de capacidades|
-|[Acto 2 — Esto es ridículo](sesion/acto2-ridiculo.md)|Batería de retos|
-|[Acto 3 — Esto es ingeniería](sesion/acto3-ingenieria.md)|Técnicas de prompting aplicadas|
-|[Cierre](sesion/cierre.md)|Creación de retos propios|
-|[Catálogo de retos](retos/README.md)|Todos los retos organizados por categoría de fallo|
-|[Plantilla de registro](recursos/plantilla-registro.md)|Tabla para que los grupos registren resultados|
-|[Prompts preparados](recursos/prompts-preparados.md)|Prompts listos para copiar/pegar en el Acto 3|
-
-## Requisitos
-
-- 15 estudiantes, organizados en **5 grupos de 3**
-- Cada grupo necesita acceso a al menos **2 LLMs distintos** (ChatGPT, Claude, Gemini, Copilot, etc. — versiones gratuitas sirven)
-- Un **documento compartido** visible para todos (Google Sheets, HackMD, o similar) para la tabla de registro
-- Proyector para las puestas en común
-- Los retos visuales requieren LLMs con capacidad multimodal
+</div>
