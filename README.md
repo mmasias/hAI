@@ -77,5 +77,17 @@ Generación de código funcional a partir de una descripción en lenguaje natura
 
 </div>
 
-### ¿Qué más?
+### Pero... ¿pueden pensar?
+
+- ¿Son manazas con manzanas?
+  <details>
+  <summary></summary>
+  <ul>
+    <li>La cafetería tiene 23 manzanas. Si usaron 20 para preparar un postre y compraron 6 más, ¿cuántas manzanas tienen ahora?</li>
+    <li>Dame oraciones que terminen con la palabra "manzana" 
+    <li>Dame diez oraciones, donde la palabra manzana esté en la primera posición en la primera oración, en la segunda posición en la segunda oración, en la tercera posición en la tercera oración y así sucesivamente hasta llegar a la décima oración
+  </ul>
+  </details>
+
+- Cervantes les puede
 
