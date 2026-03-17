@@ -34,7 +34,43 @@ O sea, como el autocompletar ([¿o no? 🤔](https://github.com/mmasias/ai-promp
 
 ||||
 |-|-|-|
-|Entender que un LLM no razona: predice secuencias.|Experimentar en primera persona sus aciertos y fallos, y clasificar sus causas.|Conocer al algunas técnicas de prompting y aplicarlas.
+|Entender que un LLM no razona: predice secuencias.|Experimentar en primera persona sus aciertos y fallos, y clasificar sus causas.|Conocer algunas técnicas de prompting y aplicarlas.|
 
 Este taller busca evidenciar esa confianza ciega y reconstruirla sobre una base técnica.
 
+## ¿Cómo?
+
+### A ver qué pueden hacer
+
+<div align=center>
+
+<table>
+<tr><th>¿Pueden ver?</th><th>¿Y los idiomas?</th><th>¿Programación?</th></tr>
+<tr><td valign=top>
+<details>
+<summary></summary>
+
+[CdU de visión](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/visionGPT.md)
+
+Tareas que explotan la capacidad multimodal de los LLMs: reciben una imagen y generan texto a partir de ella (descripción, transcripción, análisis, sugerencias).
+</details>
+</td><td valign=top>
+<details>
+<summary></summary>
+
+[CdU de traducción](https://github.com/mmasias/u6-VII-traslation-project)
+
+Traducción de los diálogos [del remake de un videojuego clásico (Ultima VI)](https://ultima6.ultimacodex.com/the-ultima-6-remake/) al español, adaptando el registro lingüístico al personaje: un pirata habla como pirata del Siglo de Oro, un rey habla como monarca castellano — a partir del mismo código fuente.
+</details>
+</td><td valign=top>
+<details>
+<summary></summary>
+
+CdU de desarrollo
+
+Generación de código funcional a partir de una descripción en lenguaje natural.
+</details>
+</td></tr>
+</table>
+
+</div>
