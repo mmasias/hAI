@@ -121,6 +121,13 @@ Generación de código funcional a partir de una descripción en lenguaje natura
     <li>Escríbeme una frase que no contenga ninguna palabra que aparezca en "El Quijote"
   </ul>
   </details>
+- ¿Siguen instrucciones?
+  <details>
+  <summary></summary>
+  <ul>
+  <li>Escribe exactamente lo que te diga / murciélago al revés
+    </ul>
+  </details>
 - La física no viene de serie
   <details>
   <summary></summary>
@@ -134,6 +141,11 @@ Generación de código funcional a partir de una descripción en lenguaje natura
     <li><img src="https://raw.githubusercontent.com/mmasias/ai-prompts/main/documentos/imagenes/perritos.png">
     <li> <a href="https://github.com/mmasias/ai-prompts/tree/main/documentos/imagenes/testVisuaLLM">Más imágenes</a>
   </details>
+- ¿Qué tal dibujan?
+  <details>
+  <summary></summary>
+  <li> Dibuja la esfera de un reloj, coloca los números y marca las manecillas a las nueve y diez.
+  </details>
 - ¿Se reconocen a sí mismas?
   <details>
   <summary></summary>
@@ -142,6 +154,8 @@ Generación de código funcional a partir de una descripción en lenguaje natura
   </details>
 
 > [Más ejemplos](https://github.com/mmasias/ai-prompts/blob/main/documentos/casosDeUso/diversosTest.md)
+>
+> [Paper académico](https://arxiv.org/pdf/2602.06176)
 
 ### ¿Qué hacer?
 
