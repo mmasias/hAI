@@ -2,7 +2,7 @@
 
 <div align=right>
 
-<sub><i>Los humanos siempre hemos tenido que lidiar con nuevas formas de expresión.<br>A ustedes les ha tocado una que no solo habla, sino que además responde.</i></sub>
+<i>Los humanos siempre hemos tenido que lidiar con nuevas formas de expresión.<br>A ustedes les ha tocado una que no solo habla, sino que además responde.</i>
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ||||
 |-|-|-|
-Muchos usuarios de los modelos de lenguaje los utilizan como si de oráculos se tratase: les preguntan (*si es que preguntan!!!*) y aceptan sus respuestas.|No cuestionan las respuestas ni distinguen cuándo el modelo razona de cuándo improvisa.|Desconocen que la forma de preguntar puede cambiar radicalmente la respuesta.
+Muchos usuarios de los modelos de lenguaje los utilizan como si de oráculos se tratase: les preguntan (*si es que preguntan!!!*) y aceptan sus respuestas.|No cuestionan las respuestas ni distinguen cuándo el modelo razona de cuándo improvisa.|Desconocen que la forma de preguntar puede cambiar radicalmente la respuesta.|
 
 ## ¿Qué?
 
 <div align=center>
 
-|[![](https://img.shields.io/badge/-ChatGPT-FFF?style=flat&logo=openai&logoColor=black)](https://chat.openai.com/) [![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats) [![](https://img.shields.io/badge/-Gemini-FFF?style=flat&logo=googlegemini&logoColor=black)](https://gemini.google.com/app) [![](https://img.shields.io/badge/-DeepSeek-FFF?style=flat&logo=deepseek&logoColor=black)](https://chat.deepseek.com/) [![](https://img.shields.io/badge/-Grok-FFF?style=flat&logo=x&logoColor=black)](https://x.com/i/grok) [![](https://img.shields.io/badge/-MetaAI-FFF?style=flat&logo=meta&logoColor=black)](https://www.meta.ai/) [![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)<br>[![](https://img.shields.io/badge/-Perplexity-FFF?style=flat&logo=perplexity&logoColor=black)](https://www.perplexity.ai/) [![](https://img.shields.io/badge/-Mistral-FFF?style=flat)](https://chat.mistral.ai/chat) [![](https://img.shields.io/badge/-Qwen-FFF?style=flat&logo=qwen&logoColor=black)](https://chat.qwen.ai/) [![](https://img.shields.io/badge/-Z.Ai-FFF?style=flat&logo=&logoColor=black)](https://https://chat.z.ai/) [![](https://img.shields.io/badge/-Google-FFF?style=flat&logo=google&logoColor=black)](https://www.google.com/)
+|[![](https://img.shields.io/badge/-ChatGPT-FFF?style=flat&logo=openai&logoColor=black)](https://chat.openai.com/) [![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats) [![](https://img.shields.io/badge/-Gemini-FFF?style=flat&logo=googlegemini&logoColor=black)](https://gemini.google.com/app) [![](https://img.shields.io/badge/-DeepSeek-FFF?style=flat&logo=deepseek&logoColor=black)](https://chat.deepseek.com/) [![](https://img.shields.io/badge/-Grok-FFF?style=flat&logo=x&logoColor=black)](https://x.com/i/grok) [![](https://img.shields.io/badge/-MetaAI-FFF?style=flat&logo=meta&logoColor=black)](https://www.meta.ai/) [![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)<br>[![](https://img.shields.io/badge/-Perplexity-FFF?style=flat&logo=perplexity&logoColor=black)](https://www.perplexity.ai/) [![](https://img.shields.io/badge/-Mistral-FFF?style=flat&logo=mistralai&logoColor=black)](https://chat.mistral.ai/chat) [![](https://img.shields.io/badge/-Qwen-FFF?style=flat&logo=qwen&logoColor=black)](https://chat.qwen.ai/) [![](https://img.shields.io/badge/-Z.Ai-FFF?style=flat&logo=&logoColor=black)](https://https://chat.z.ai/) [![](https://img.shields.io/badge/-Google-FFF?style=flat&logo=google&logoColor=black)](https://www.google.com/)
 |:-:|
 LLMs: Modelos de lenguaje de gran escala / Large language models
 
